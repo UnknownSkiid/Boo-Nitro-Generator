@@ -1,4 +1,4 @@
-# Boo-Nitro-Generator
+<div align="center">
 I Was Free And I Made It
 
 
